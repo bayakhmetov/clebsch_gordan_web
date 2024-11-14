@@ -102,7 +102,8 @@ img {
     }
     
     .container {
-        height: 75%;
+        height: 85%;
+        background: linear-gradient(#4285F4, lightgray) ;
     }
     label {
         width: 25px; /* Reduce label size */
