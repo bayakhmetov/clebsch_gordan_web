@@ -89,3 +89,39 @@ img {
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 16pt; /* Adjust header size for mobile */
+    }
+    
+    .moments {
+        width: 90%; /* Full width for smaller screens */
+        height: auto;
+        padding: 10px;
+    }
+    
+    label {
+        width: 25px; /* Reduce label size */
+        height: 25px;
+        font-size: 12pt; /* Smaller font size for mobile */
+    }
+
+    input {
+        width: 80px; /* Adjust input width */
+        height: 25px; /* Adjust input height */
+        font-size: 12pt; /* Smaller font size */
+    }
+
+    #btn {
+        width: 90px; /* Adjust button width */
+        height: 40px; /* Adjust button height */
+        font-size: 10pt; /* Adjust button font size */
+    }
+
+    img {
+        width: 100%; /* Make image responsive */
+        max-width: none; /* Remove max-width constraint */
+        height: auto; /* Allow image to scale properly */
+    }
+}
