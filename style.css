@@ -101,6 +101,9 @@ img {
         padding: 10px;
     }
     
+    .container {
+        height: 75%;
+    }
     label {
         width: 25px; /* Reduce label size */
         height: 25px;
