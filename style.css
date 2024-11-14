@@ -60,7 +60,7 @@ label {
 input {
     display: inline-block;
     padding: 0.3rem;
-    width: 8rem;  /* Используем rem для ширины */
+    width: 6rem;  /* Используем rem для ширины */
     height: 2rem;
     border: 0.2rem solid #4285F4;
     border-radius: 0.3rem;
