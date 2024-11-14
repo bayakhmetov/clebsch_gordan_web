@@ -100,10 +100,7 @@ img {
         height: auto;
         padding: 10px;
     }
-    .container {
-    width: 30%;
-    height: 30%;
-    }
+    
     label {
         width: 25px; /* Reduce label size */
         height: 25px;
@@ -123,7 +120,7 @@ img {
     }
 
     img {
-        width: 50%; /* Make image responsive */
+        width: 40%; /* Make image responsive */
         max-width: none; /* Remove max-width constraint */
         height: auto; /* Allow image to scale properly */
     }
