@@ -36,7 +36,7 @@ h1 {
     box-shadow: 0.5rem 0.5rem 1rem rgba(255, 255, 255, 0.7);
     border-radius: 1rem;
     width: 70%;  /* Используем проценты для адаптивной ширины */
-    max-width: 550px;  /* Ограничиваем максимальную ширину */
+    max-width: 250px;  /* Ограничиваем максимальную ширину */
     height: auto;  /* Высота автоматически подстраивается */
     padding: 1rem;
     background: whitesmoke;
