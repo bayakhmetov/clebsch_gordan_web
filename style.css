@@ -126,6 +126,6 @@ img {
     img {
         width: 100%; /* Make image responsive */
         max-width: none; /* Remove max-width constraint */
-        height: auto%; /* Allow image to scale properly */
+        height: 50%; /* Allow image to scale properly */
     }
 }
