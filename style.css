@@ -124,8 +124,8 @@ img {
     }
 
     img {
-        width: 100%; /* Make image responsive */
+        width: 90%; /* Make image responsive */
         max-width: none; /* Remove max-width constraint */
-        height: 80%; /* Allow image to scale properly */
+        height: 70%; /* Allow image to scale properly */
     }
 }
